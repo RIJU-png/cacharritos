@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/025/950/728/non_2x/icon-illustration-in-flat-design-vector.jpg);
+}
+
+.navbarra{
+    background-color: black;}
+
+
+.vmodal{
+    width: 800px;
+}
+.color{
+    background-color: white;
+    border: solid;
+    border-radius: 20px;
+    border-color: black;
+}
+.boton1{
+    background-color: white;
+    border-radius: 20px;
+}
+.boton2{
+    background-color: white;
+    border-radius: 20px;
+}
+#bcarrito{
+    margin-left: 380px;
+}
